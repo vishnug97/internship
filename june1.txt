@@ -1,0 +1,2 @@
+Refreshed basic linux shell commands that i studied earlier.
+Studied some git skills.
