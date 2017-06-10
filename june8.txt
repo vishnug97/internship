@@ -1,0 +1,4 @@
+Studied git through the screencasts
+Studied some python techniques
+Studied some commands on linux
+
