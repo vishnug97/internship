@@ -1,0 +1,1 @@
+Studied some commands and cocepts on python like list,tuple,variables,dictionaries etc

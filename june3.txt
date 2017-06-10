@@ -1,0 +1,3 @@
+Studied some python commands.
+Studied the loopmount an iso file.
+Studied more about vim.
